@@ -1,0 +1,12 @@
+# macOS Finder metadata
+.DS_Store
+
+# Temporary slide extracts and working text
+tmp/
+
+# Large files kept on disk, not in git (about 1 MB and above)
+ppt/bak/Lesson 1 for  PhD - No solution.pdf
+ppt/bak/Lesson 4 for  PhD - no solution.pdf
+ppt/bak/Lesson 5 for  PhD - full version123.pdf
+ppt/bak/Lesson 6 for  PhD - full version123.pdf
+Work/assignment1/image/
